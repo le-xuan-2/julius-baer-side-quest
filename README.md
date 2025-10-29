@@ -203,12 +203,12 @@ For **any one of the 2 legacy functions** (detailed above), submit:
 ### Step 1: Repository Setup (5 minutes)
 ```bash
 # 1. Fork the official repository on GitHub
-# Go to: github.com/vibecoderevival/sidequest-repo
+# Go to: https://github.com/SingHacks-2025/julius-baer-side-quest
 # Click "Fork" button
 
 # 2. Clone your fork locally
-git clone https://github.com/YOUR_USERNAME/sidequest-repo.git
-cd sidequest-repo
+git clone https://github.com/YOUR_USERNAME/julius-baer-side-quest
+cd julius-baer-side-quest
 ```
 
 ### Step 2: Choose Your Legacy Function (5 minutes)
